@@ -1,4 +1,5 @@
 # MovieQueries
+1.
 - Create a Movies Database with a table similar to the excel screenshot above
 - INSERT INTO movietable VALUES
     -> ('Lavalantula', 83, 'Horror', 4.7, 'TV-14'),
@@ -8,7 +9,7 @@
     ->  ('Monsters Inc.', 92, 'Animation', 8.1, 'G');
 
 
-
+2.
 - Add a few more movies of your choosing.
 - INSERT INTO movietable VALUES
     -> ('Avatar', 162, 'Sci-Fi', 7.8, 'PG-13'),
